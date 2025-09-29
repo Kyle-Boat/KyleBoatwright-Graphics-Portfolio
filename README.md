@@ -1,3 +1,3 @@
 # Kyle's Graphics Portfolio
 
-NOTE: Some projects include pair programming tatcics
+NOTE: Some projects include pair programming tactics
