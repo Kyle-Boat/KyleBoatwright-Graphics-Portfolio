@@ -1,0 +1,41 @@
+[33m4cd4831[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mworking-but-too-big-to-push[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~4
+[33m99ca737[m HEAD@{1}: checkout: moving from main to working-but-too-big-to-push
+[33m4cd4831[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mworking-but-too-big-to-push[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from working-but-too-big-to-push to main
+[33m99ca737[m HEAD@{3}: reset: moving to HEAD
+[33m99ca737[m HEAD@{4}: commit: fixes to db file
+[33mad0d0e6[m HEAD@{5}: checkout: moving from main to working-but-too-big-to-push
+[33m4cd4831[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mworking-but-too-big-to-push[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from working-but-too-big-to-push to main
+[33mad0d0e6[m HEAD@{7}: reset: moving to HEAD
+[33mad0d0e6[m HEAD@{8}: checkout: moving from main to working-but-too-big-to-push
+[33m4cd4831[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mworking-but-too-big-to-push[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m914926d[m HEAD@{10}: checkout: moving from working-but-too-big-to-push to main
+[33mad0d0e6[m HEAD@{11}: reset: moving to HEAD
+[33mad0d0e6[m HEAD@{12}: checkout: moving from main to working-but-too-big-to-push
+[33m914926d[m HEAD@{13}: reset: moving to HEAD
+[33m914926d[m HEAD@{14}: reset: moving to HEAD~4
+[33me7e9ce5[m HEAD@{15}: reset: moving to HEAD~4
+[33mf4556df[m HEAD@{16}: commit: Stop tracking Visual Studio .vs files
+[33m156dcf8[m HEAD@{17}: checkout: moving from working-but-too-big-to-push to main
+[33mad0d0e6[m HEAD@{18}: checkout: moving from main to working-but-too-big-to-push
+[33m156dcf8[m HEAD@{19}: checkout: moving from working-but-too-big-to-push to main
+[33mad0d0e6[m HEAD@{20}: checkout: moving from main to working-but-too-big-to-push
+[33m156dcf8[m HEAD@{21}: reset: moving to 156dcf8b19034c544dae2bba5d5902b7b331b803
+[33md4224b6[m HEAD@{22}: commit: Stop tracking Visual Studio .vs files
+[33m156dcf8[m HEAD@{23}: reset: moving to 156dcf8b19034c544dae2bba5d5902b7b331b803
+[33m4846b67[m HEAD@{24}: commit: Stop tracking Visual Studio cache (.vs)
+[33m156dcf8[m HEAD@{25}: commit: ignoring huge file
+[33mad0d0e6[m HEAD@{26}: commit: Files should work now
+[33m2c2bf66[m HEAD@{27}: commit: Track all files
+[33me7e9ce5[m HEAD@{28}: commit: Vulkan project added(some files are getting ignored for a strange reason)
+[33m4cd4831[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mworking-but-too-big-to-push[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{29}: reset: moving to Head~3
+[33mdf395f2[m HEAD@{30}: commit: Removing broken files
+[33m59ba12e[m HEAD@{31}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mef23521[m HEAD@{32}: commit: Vulkan Project added
+[33m4cd4831[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mworking-but-too-big-to-push[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{33}: reset: moving to 4cd4831faa22e859d55b9b79bd1d03864d2202ae
+[33m3285e2f[m HEAD@{34}: commit: Vulkan Project added
+[33m4cd4831[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mworking-but-too-big-to-push[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{35}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m3e11c29[m HEAD@{36}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m914926d[m HEAD@{37}: commit: Rearranged somethings
+[33m224fee8[m HEAD@{38}: commit: Delete README.md
+[33m4612813[m HEAD@{39}: commit: Portoflio Push
+[33m98e9dd1[m HEAD@{40}: commit (initial): Initial commit
