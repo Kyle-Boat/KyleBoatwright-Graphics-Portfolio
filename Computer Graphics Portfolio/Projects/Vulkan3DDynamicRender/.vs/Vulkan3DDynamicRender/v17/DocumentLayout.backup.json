@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\out\\build\\x64-debug\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:out\\build\\x64-debug\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\VulkanSDK\\1.4.335.0\\Include\\slang\\slang-com-ptr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -34,40 +38,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAIoDAAAAAAAAAAAAANcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-19T15:46:07.485Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "volk.c",
-              "DocumentMoniker": "C:\\VulkanSDK\\1.4.335.0\\Include\\Volk\\volk.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\VulkanSDK\\1.4.335.0\\Include\\Volk\\volk.c",
-              "ToolTip": "C:\\VulkanSDK\\1.4.335.0\\Include\\Volk\\volk.c",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\VulkanSDK\\1.4.335.0\\Include\\Volk\\volk.c",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAjwLkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-19T16:39:53.457Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "WglContext.cpp",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\out\\build\\x64-debug\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp",
+              "RelativeDocumentMoniker": "out\\build\\x64-debug\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp",
+              "ToolTip": "C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\out\\build\\x64-debug\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp",
+              "RelativeToolTip": "out\\build\\x64-debug\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-19T23:38:55.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "exe_common.inl",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\exe_common.inl",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\exe_common.inl",
@@ -79,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "shader.slang",
               "DocumentMoniker": "C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\shader.slang",
               "RelativeDocumentMoniker": "shader.slang",
@@ -91,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CMake Overview Pages",
               "DocumentMoniker": "CMake Overview Pages",
               "ToolTip": "CMake Overview Pages",
@@ -100,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CMakeLists.txt",
               "DocumentMoniker": "C:\\Users\\Kyle\\Documents\\GitHub\\KyleBoatwright-Graphics-Portfolio\\Computer Graphics Portfolio\\Projects\\Vulkan3DDynamicRender\\CMakeLists.txt",
               "RelativeDocumentMoniker": "CMakeLists.txt",
@@ -113,19 +123,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "slang-com-ptr.h",
               "DocumentMoniker": "C:\\VulkanSDK\\1.4.335.0\\Include\\slang\\slang-com-ptr.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\VulkanSDK\\1.4.335.0\\Include\\slang\\slang-com-ptr.h",
               "ToolTip": "C:\\VulkanSDK\\1.4.335.0\\Include\\slang\\slang-com-ptr.h",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\VulkanSDK\\1.4.335.0\\Include\\slang\\slang-com-ptr.h",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAAAM8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-19T18:03:43.525Z"
+              "WhenOpened": "2026-01-19T18:03:43.525Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "volk.c",
+              "DocumentMoniker": "C:\\VulkanSDK\\1.4.335.0\\Include\\Volk\\volk.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\VulkanSDK\\1.4.335.0\\Include\\Volk\\volk.c",
+              "ToolTip": "C:\\VulkanSDK\\1.4.335.0\\Include\\Volk\\volk.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\VulkanSDK\\1.4.335.0\\Include\\Volk\\volk.c",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAjwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-19T16:39:53.457Z"
             }
           ]
         }

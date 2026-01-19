@@ -6,7 +6,9 @@
     - Vulkan Samples (KhronosGroup)
     - Sascha Willems examples / articles (concepts + patterns)
     - Additional articles for specific topics (notes in README)
-
+		
+    * Hold mouse left button and move to rotate camera
+		* Scroll to see alpha blending features
 */
 #include <SFML/Graphics.hpp>
 #include <vulkan/vulkan.h>
