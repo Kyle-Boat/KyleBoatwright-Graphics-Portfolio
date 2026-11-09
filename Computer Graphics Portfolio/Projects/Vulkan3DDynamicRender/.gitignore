@@ -1,1 +1,16 @@
-.vs/**/Browse.VC.db
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.db
+
+# CMake build files
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled binaries
+*.exe
+*.obj
+*.pdb
